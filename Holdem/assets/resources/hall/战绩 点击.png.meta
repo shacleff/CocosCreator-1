@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fae0aa9c-36ad-491f-8c8e-34476777582a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "战绩 点击": {
+      "ver": "1.0.4",
+      "uuid": "0be72380-924b-4151-97b6-bb2d57322af1",
+      "rawTextureUuid": "fae0aa9c-36ad-491f-8c8e-34476777582a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 46,
+      "height": 46,
+      "rawWidth": 54,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

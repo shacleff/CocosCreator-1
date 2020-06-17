@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e04a36c9-61d5-4f1e-a9db-c8544fb75a95",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "俱乐部 点击": {
+      "ver": "1.0.4",
+      "uuid": "17aa849b-754c-42d0-9edd-f9f5bee81840",
+      "rawTextureUuid": "e04a36c9-61d5-4f1e-a9db-c8544fb75a95",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 53,
+      "height": 45,
+      "rawWidth": 54,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
